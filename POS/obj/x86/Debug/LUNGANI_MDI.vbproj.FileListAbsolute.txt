@@ -1,0 +1,124 @@
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe.config
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.pdb
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.xml
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbprojResolveAssemblyReference.cache
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddEmployee.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.EditCustomers.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Form1.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.CompleteOrder.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.InvetoryDetails.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.LoginVcity.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Resources.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.PlaceNewOrder.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddNewMenuItem.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SalesReport.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SupplyOrderRecord.resources
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbproj.GenerateResource.Cache
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.exe
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.xml
+C:\Users\Dignity\Desktop\Golden 1.1\Sem 2\Project\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.pdb
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe.config
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.exe
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.xml
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.pdb
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.pdb
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.xml
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbprojResolveAssemblyReference.cache
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddEmployee.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.EditCustomers.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Form1.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.CompleteOrder.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.InvetoryDetails.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.LoginVcity.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Resources.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.PlaceNewOrder.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddNewMenuItem.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SalesReport.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SupplyOrderRecord.resources
+C:\Users\Kwazi Mbn\Desktop\Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbproj.GenerateResource.Cache
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe.config
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.exe
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.xml
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.pdb
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbprojResolveAssemblyReference.cache
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddEmployee.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.EditCustomers.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Form1.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.CompleteOrder.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.InvetoryDetails.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.LoginVcity.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Resources.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.PlaceNewOrder.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddNewMenuItem.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SalesReport.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SupplyOrderRecord.resources
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbproj.GenerateResource.Cache
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.pdb
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.xml
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe.config
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.exe
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.xml
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.pdb
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.pdb
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.xml
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbprojResolveAssemblyReference.cache
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddEmployee.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.EditCustomers.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Form1.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.CompleteOrder.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.InvetoryDetails.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.LoginVcity.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Resources.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.PlaceNewOrder.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddNewMenuItem.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SalesReport.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SupplyOrderRecord.resources
+C:\Users\Dingu\Desktop\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbproj.GenerateResource.Cache
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe.config
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.exe
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.xml
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.pdb
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe.config
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.exe
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.xml
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.pdb
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.pdb
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.xml
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddEmployee.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.EditCustomers.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Form1.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.CompleteOrder.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.InvetoryDetails.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.LoginVcity.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Resources.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.PlaceNewOrder.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddNewMenuItem.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SalesReport.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SupplyOrderRecord.resources
+D:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbproj.GenerateResource.Cache
+E:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe.config
+E:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.exe
+E:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.xml
+E:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.pdb
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.exe
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.pdb
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\LUNGANI_MDI.xml
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbprojResolveAssemblyReference.cache
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddEmployee.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.EditCustomers.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Form1.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.CompleteOrder.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.InvetoryDetails.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.LoginVcity.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.Resources.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.PlaceNewOrder.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.AddNewMenuItem.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SalesReport.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.SupplyOrderRecord.resources
+G:\Final Golden\LUNGANI_MDI [Latest]\LUNGANI_MDI\obj\x86\Debug\LUNGANI_MDI.vbproj.GenerateResource.Cache
+E:\LUNGANI_MDI [Latest]\LUNGANI_MDI\bin\Debug\PointOfSale.exe.config
